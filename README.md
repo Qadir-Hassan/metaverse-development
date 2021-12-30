@@ -185,7 +185,8 @@ Metaverse is the next version of the internet. We will need highly scalable clou
 
 
 
-
+## Mozilla Hubs is browser-based, so you’ll be using web technologies like Three.js and WASM. Meet, share and collaborate together in private 3D virtual spaces. 
+https://hubs.mozilla.com/pz4VvjX/wry-super-social
 
 
 
